@@ -37,7 +37,7 @@ import {
     {
       id: "contact",
       title: "Contact",
-    },
+    }
   ];
   
   const services = [
@@ -46,7 +46,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Javascript Developer",
       icon: mobile,
     },
     {
@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Front End Developer",
       icon: creator,
     },
   ];
@@ -116,55 +116,39 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Unreal Engine Instructor",
+      company_name: "iD Tech",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "Jun 2023 - Aug 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Instructed High School Students ages 14 - 17 how to design and develop games using Unreal Engine 5.",
+        "Taught implementation of game mechanics through visual scripting, c++ and by using Unreal Engine's blueprint editor.",
+        "Led a project-based class and helped debug mechanical errors and provided constructive criticism on the technical and aesthetic areas of the student’s projects.",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Graphic Design Chair",
+      company_name: "Phi Sigma Kappa",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Designed eye-catching rush posters, event flyers and social media posts while marketing the organization in accordance with our brand.",
+        "Contributed to the marketing of the largest rush year in RIT history.",
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "Camp Counselor",
+      company_name: "YMCA Camp Chingachgook",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Jun 2021 - Aug 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Ensured the safety and wellbeing of campers at all times.",
+        "Inspired campers to create and explore through engaging and learning about their environment.",
+        "Lead skill classes such as sailing, canoeing, swimming, water skiing and archery.",
+        "Led three-day water and wilderness hikes through Lake George and the surrounding mountains.",
       ],
     },
   ];
@@ -198,25 +182,25 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "NY Parks Mapbox",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A web application that allows you to research and favorite NY State parks.",
       tags: [
         {
-          name: "react",
+          name: "JS",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Mapbox",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Firebase",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/SawyerNic/Mapbox_Project",
     },
     {
       name: "Job IT",
