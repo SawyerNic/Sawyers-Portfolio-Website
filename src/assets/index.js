@@ -26,6 +26,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import PSKLogo from "./company/PSKLogo.webp";
+import iDTechLogo from "./company/iDTechLogo.png";
+import YMCA from "./company/YMCA.svg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -61,4 +64,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  PSKLogo,
+  iDTechLogo,
+  YMCA,
 };

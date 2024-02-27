@@ -23,6 +23,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    PSKLogo,
+    iDTechLogo,
+    YMCA
   } from "../assets";
   
   export const navLinks = [
@@ -118,7 +121,7 @@ import {
     {
       title: "Unreal Engine Instructor",
       company_name: "iD Tech",
-      icon: starbucks,
+      icon: iDTechLogo,
       iconBg: "#383E56",
       date: "Jun 2023 - Aug 2023",
       points: [
@@ -130,7 +133,7 @@ import {
     {
       title: "Graphic Design Chair",
       company_name: "Phi Sigma Kappa",
-      icon: tesla,
+      icon: PSKLogo,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
@@ -141,7 +144,7 @@ import {
     {
       title: "Camp Counselor",
       company_name: "YMCA Camp Chingachgook",
-      icon: meta,
+      icon: YMCA,
       iconBg: "#E6DEDD",
       date: "Jun 2021 - Aug 2022",
       points: [
