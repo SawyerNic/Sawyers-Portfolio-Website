@@ -14,9 +14,7 @@ const App = () => {
         bg-no-repeat bg-center bg-fixed">
 
     <About />
-    <Tech />
     <Works />
-    <Experience />
         </div>
     </div>
    </BrowserRouter>
