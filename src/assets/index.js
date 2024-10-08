@@ -37,6 +37,7 @@ import tripguide from "./tripguide.png";
 import amiibo from "./amiibo.png";
 import audio from "./audio.png";
 import mapbox from "./mapbox.png";
+import conversationStrike from "./conversationStrike.png";
 
 export {
   sawyerlogo,
@@ -75,4 +76,5 @@ export {
   amiibo,
   audio,
   mapbox,
+  conversationStrike
 };

@@ -30,20 +30,23 @@ import {
     amiibo,
     audio,
     mapbox,
+    conversationStrike
   } from "../assets";
   
   export const navLinks = [
     {
-      id: "about",
-      title: "About",
+      id: "github",
+      title: "Github",
+      link: "https://github.com/SawyerNic",
     },
     {
-      id: "work",
-      title: "Work",
+      id: "works",
+      title: "Works",
     },
     {
-      id: "contact",
-      title: "Contact",
+      id: "linkedin",
+      title: "LinkedIn",
+      link: "https://www.linkedin.com/in/sawyer-nicastro-96808121b/",
     }
   ];
   
@@ -198,9 +201,9 @@ import {
       source_code_link: "https://github.com/SawyerNic/Mapbox_Project",
     },
     {
-      name: "Amiibo App",
+      name: "Conversation Strike",
       description:
-        "An application that allows you to search for and favorite Amiibos. Built with React while utlizing the Amiibo API.",
+        "This is a simple forum website to discuss mechanics of the game Counter Strike 2. Posts are anonymous and are stored in MongoDB. Sessions are secured by Redis.",
       tags: [
         {
           name: "react",
@@ -211,12 +214,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "vite",
+          name: "gulp",
           color: "pink-text-gradient",
         },
       ],
-      image: amiibo,
-      source_code_link: "https://github.com/SawyerNic/AmiiboApp",
+      image: conversationStrike,
+      source_code_link: "https://github.com/SawyerNic/Conversation-Strike",
     },
     {
       name: "Audio Visualizer",
